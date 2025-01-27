@@ -13,7 +13,7 @@ public class ArrayDec {
         //     System.out.println(arr[i]);
         // }
         // for(int num:arr){
-        //     System.out.println(num);
+        //     System.out.println(num); //this is advanced for loop
         // }
         System.out.println(Arrays.toString(arr));
     }
