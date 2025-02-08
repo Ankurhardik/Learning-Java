@@ -8,7 +8,7 @@ public class Arraylist {
         A.add(145);
         A.add(435);
         A.add(405);
-        A.add(945);
+        A.add(94,4);
         System.out.println(A);
         A.remove(2);        
         System.out.println(A);
