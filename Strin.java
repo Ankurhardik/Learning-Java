@@ -20,6 +20,7 @@ public class Strin {
         System.out.println(d.equals(a));//true
 
         System.out.println(Arrays.toString(name.toCharArray()));
-
+        a.length();
+        System.out.println(a.charAt(1));
     }
 }

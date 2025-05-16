@@ -1,4 +1,4 @@
-public class Permutation {
+  public class Permutation {
     public static void main(String[] args) {
         Per("","abc");
     }
