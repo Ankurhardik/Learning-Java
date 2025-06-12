@@ -19,5 +19,6 @@ public class Arraylist {
         for(int i=0;i<5;i++){
             System.out.print(Arr.get(i)+" ");//get command is used to get the index
         }
+        
     }
 }
